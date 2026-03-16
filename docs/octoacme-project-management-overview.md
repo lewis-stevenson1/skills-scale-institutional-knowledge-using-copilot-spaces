@@ -17,8 +17,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: owns the test plan, manages QA process, and validates acceptance criteria before and after release.
+- Release Coordinator: owns the release calendar, coordinates cross-team release readiness, and manages deployment communications.
+- Risk Officer: maintains the Risk Register, facilitates risk reviews, and leads escalation procedures.
+- Stakeholder Champion: represents business stakeholder interests, synthesizes feedback, and liaises between stakeholders and the delivery team.
 - Stakeholders: provide inputs and approvals.
+
+See `docs/octoacme-roles-and-personas.md` for full role descriptions and interaction guidelines.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +49,6 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use `docs/octoacme-role-onboarding-checklists.md` to onboard new team members into any of the defined roles.
+- Use `docs/octoacme-stakeholder-communication-templates.md` for consistent stakeholder communication.
+- Use `docs/octoacme-risk-escalation-template.md` for structured risk escalation.

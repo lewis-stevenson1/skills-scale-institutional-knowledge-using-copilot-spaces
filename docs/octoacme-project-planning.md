@@ -34,10 +34,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Risk Officer owns the Risk Register and facilitates weekly risk review sessions
+- Use `docs/octoacme-risk-escalation-template.md` when risks exceed team-level resolution capacity
 
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Release timeline and milestones agreed with Release Coordinator
+- [ ] Definition of Done documented (includes QA sign-off criteria)
+- [ ] Initial test plan / QA approach drafted by QA Lead
+- [ ] Risk Officer has established the Risk Register and initial risk review cadence
+- [ ] Stakeholder Champion has confirmed stakeholder communication plan
