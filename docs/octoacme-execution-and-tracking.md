@@ -33,8 +33,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
 
+For risk escalation, the Risk Officer leads the process using `docs/octoacme-risk-escalation-template.md`. The Stakeholder Champion is notified when escalations may impact business commitments.
+
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly by Risk Officer
+- [ ] QA Lead has reviewed acceptance criteria for all in-progress items
+- [ ] Release Coordinator is tracking release calendar and pre-release readiness
