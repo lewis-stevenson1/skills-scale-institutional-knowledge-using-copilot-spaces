@@ -30,6 +30,3 @@ OctoAcme project management is guided by these principles:
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
 
----
-
-*Closes #2*
